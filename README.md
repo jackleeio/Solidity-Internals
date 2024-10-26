@@ -1,3 +1,4 @@
 ## Solidity Internals
 
-[Basic Storage Layout](docs/01-basic-storage-layout.md)
+- [Basic Storage Layout](docs/01-basic-storage-layout.md)
+- Coming soon...
